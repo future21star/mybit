@@ -1084,6 +1084,9 @@ p {
   position: relative;
   color: #000000;
 }
+.mainNav__link__hide {
+  display: none;
+}
 .mainNav__link:after {
   content: none;
   position: absolute;
